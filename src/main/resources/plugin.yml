@@ -1,0 +1,11 @@
+name: SunnyAurora
+version: 1.0
+main: io.github.sunshinewzy.sunnyaurora.SunnyAurora
+author: Sunshine_wzy
+description: A bukkit plugin which can run server commands in QQ by mirai bot.
+
+depend: [SunSTCore, ProtocolLib]
+
+commands: 
+  sau:
+    description: Sunny Aurora ~
